@@ -1,0 +1,4 @@
+theme: jekyll-theme-slate
+title: Donordrive API Documentation
+description: Donordrive API Documentation
+baseurl: /docs
