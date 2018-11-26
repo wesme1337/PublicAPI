@@ -1,36 +1,9 @@
-### Get A Participant
-`/api/participants/{participantID}`
-#### Supported Query Parameters
+### About DonorDrive
 
-| Query Parameter | Description |
-|---|---|
-| `callback` | The value provided will wrap the payload as a JSONP-formatted response. |
-| `version` |The version of the API desired. If no version parameter is provided, the API will default to the oldest supported version. |
+The team at DonorDrive has one central mission - to help nonprofits raise money & do good.
 
-#### Path Parameters
+We partner with hundreds of nonprofits that tackle the world’s biggest challenges - from providing access to clean water to funding medical care for children, helping the homeless, saving stray animals, and much more. Our clients power positive change & we’re proud to play a role in their work.
 
-| Field | Description |
-|---|---|
-| `participantID` | The unique ID of the participant |
+### Our Community Contribution
 
-#### Response format
-On a successful HTTP Call, `200` OK will be returned with an object whose body will contain a Participant
-
-#### Participant Object
-
-| Field | Type | Description |
-|---|---|---|
-| `avatarImageURL` | string | The URL for the avatar image associated with the Participant |
-| `campaignDate` | string-formatted date | (Personal Campaigns only) The date of the Personal Campaign |
-| `campaignName` | string | (Personal Campaigns only) The name of the Personal Campaign |
-| `createdDateUTC` | string-formatted date | The ISO-8601-formatted date (in UTC) this Participant was created |
-| `displayName` | string|The Participant's name |
-| `eventID` | integer | The ID of the Event this Participant is associated with |
-| `eventName` | string | The name of the Event this Participant is associated with |
-| `fundraisingGoal` | float | The Participant's individual goal |
-| `isTeamCaptain` | boolean | (Team Members only) If (true), this Participant is the captain of the team |
-| `numDonations` | integer | The number of donations this Participant has received |
-| `participantID` | integer | The unique ID of the Participant |
-| `sumDonations` | float | The total sum of donations this Participant has received |
-| `teamID` | integer | The ID of the Team this Participant is associated with |
-| `teamName` | string | The name of the Team this Participant is associated with |
+[Github Projects](https://github.com/donordrive)
