@@ -29,6 +29,8 @@
 			{% if site.github.is_user_page %}
 				<p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
 			{% endif %}
+		</header>
+		<nav>
 			<ul>
 				<li><a href="{{ "/" | absolute_url }}">Home</a></li>
 				<li><a href="{{ "/" | absolute_url }}/introduction">Introduction</a></li>
@@ -36,7 +38,7 @@
 				<li><a href="{{ "/" | absolute_url }}/statusCodes">Status Codes</a></li>
 				<li>Guides</li>
 			</ul>
-		</header>
+		</nav>
 		<section>
 			{{ content }}
 		</section>
