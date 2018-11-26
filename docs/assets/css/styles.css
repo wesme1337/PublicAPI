@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+nav {
+	text-align: center;
+}
+nav li {
+	display: inline;
+}
