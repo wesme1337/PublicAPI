@@ -2,14 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-
-header ul {
-	border-radius: 0;
-	background: none;
-	border: 0;
-	width: 0;
-}
-header li {
-	float:none;
-	border: 0;
-}
