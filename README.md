@@ -20,10 +20,10 @@ We partner with hundreds of nonprofits that tackle the world’s biggest challen
 
 ### Entities Reference
 * Activity
-* [Participant Activity](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/participantActivity.md)
+  * [Participant Activity](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/participantActivity.md)
 * Badges
-* [Participant Badges](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/participantBadges.md)
-* [Team Badges](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/teamBadges.md)
+  * [Participant Badges](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/participantBadges.md)
+  * [Team Badges](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/teamBadges.md)
 * Donations
   * [Participant Donations](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/participantDonations.md)
   * [Team Donations](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/teamDonations.md)
