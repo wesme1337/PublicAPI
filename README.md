@@ -11,38 +11,35 @@ We partner with hundreds of nonprofits that tackle the world’s biggest challen
 ## Table of Contents
 ### Donordrive API
 * [Home](https://github.com/wesme1337/PublicAPI/)
-* [Introduction](https://github.com/wesme1337/PublicAPI/blob/master/docs/introduction)
-* [Version](https://github.com/wesme1337/PublicAPI/blob/master/docs/version)
-* [Status Codes](https://github.com/wesme1337/PublicAPI/blob/master/docs/status-codes)
+* [Introduction](https://github.com/wesme1337/PublicAPI/blob/master/docs/introduction.md)
+* [Version](https://github.com/wesme1337/PublicAPI/blob/master/docs/version.md)
+* [Status Codes](https://github.com/wesme1337/PublicAPI/blob/master/docs/statusCodes.md)
 * Guides
-  * [Tutorial](https://github.com/wesme1337/PublicAPI/blob/master/docs/Tutorial)
-  * [Demos](https://github.com/wesme1337/PublicAPI/blob/master/docs/Demos)
+  * [Tutorial](https://github.com/wesme1337/PublicAPI/blob/master/docs/tutorial.md)
+  * [Demos](https://github.com/wesme1337/PublicAPI/blob/master/docs/demos.md)
 
 ### Entities Reference
 * Activity
-* [Participant Activity](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Participant-Activity-Entity)
+* [Participant Activity](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/participantActivity.md)
 * Badges
-* [Participant Badges](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Participant-Badges-Entity)
-* [Team Badges](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Team-Badges-Entity)
+* [Participant Badges](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/participantBadges.md)
+* [Team Badges](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/teamBadges.md)
 * Donations
-  * [Participant Donations](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Participant-Donations-Entity)
-  * [Team Donations](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Team-Donations-Entity)
-* Donors
-  * [Participant Top Donor](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Participant-Top-Donor-Entity)
-  * [Team Top Donor](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Team-Top-Donor-Entity)
+  * [Participant Donations](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/participantDonations.md)
+  * [Team Donations](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/teamDonations.md)
 * Events
-  * [Event](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Event-Entity)
-  * [Events](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Events-Entity)
-  * [Event Participants](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Event-Participants-Entity)
-  * [Event Teams](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Event-Teams-Entity)
-  * [Event Group Participants](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Event-Group-Participants-Entity)
-  * [Event Group Teams](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Event-Group-Teams-Entity)
+  * [Event](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/event.md)
+  * [Events](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/events.md)
+  * [Event Participants](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/eventParticipants.md)
+  * [Event Teams](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/eventTeams.md)
+  * [Event Group Participants](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/eventGroupParticipants.md)
+  * [Event Group Teams](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/eventGroupTeams.md)
 * Participants
-  * [Participant](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Participant-Entity)
-  * [Participants](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Participants-Entity)
+  * [Participant](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/participant.md)
+  * [Participants](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/participants.md)
 * Teams
-  * [Teams](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Teams-Entity)
-  * [Team](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Team-Entity)
-  * [Team Participants](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Team-Participants-Entity)
-  * [Team Group Participants](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Team-Group-Participants-Entity)
-  * [Team Group Teams](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/Team-Group-Teams-Entity)
+  * [Teams](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/teams.md)
+  * [Team](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/team.md)
+  * [Team Participants](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/teamParticipant.md)
+  * [Team Group Participants](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/teamGroupParticipant.md)
+  * [Team Group Teams](https://github.com/wesme1337/PublicAPI/blob/master/docs/entity/teamGroupTeams.md)
