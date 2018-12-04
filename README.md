@@ -29,7 +29,7 @@ We recommend using the URL /v1/[endpoint] for Version 1
 ##### V1
 * Still actively maintained.
 
-### Status Codes
+## Status Codes
 A 200 Status Code will return for successful API calls. Meaningful codes + messaging will be furnished in the event of an error. Here are some other responses you may encounter.
 
 |Status Code|Description|
